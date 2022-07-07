@@ -29,6 +29,7 @@ body.coming_soon
 	font-family: monospace;
 	font-size: 10em;
 	color: white;
+	animation-delay: 6s;
 }
 
 @keyframes typing {
