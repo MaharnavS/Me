@@ -12,18 +12,20 @@ div.front
 {
 	height: 100vh;
 	overflow: scroll;
-	background-image: url("../Media/Blogs/background_main.jpeg");
+	background-image: url("../Media/Blogs/background_main.jpg");
 	background-repeat: no-repeat;
 	align-content: center;
 	background-size: cover;
 	background-position: center center;
+	padding-right: 40vw;
+	padding-left: 3vw;
 }
 
 div.invFront
 {
 	height: 100vh;
 	overflow: scroll;
-	background-image: url("../Media/Blogs/background_indivi.jpg");
+	background-image: url("../Media/Blogs/background_individual.webp");
 	background-repeat: no-repeat;
 	align-content: center;
 	background-size: cover;
@@ -32,13 +34,13 @@ div.invFront
 
 h1.title
 {
-	padding-top: 35vh;
+	padding-top: 8vh;
 	color: white;
 	font-family: cursive;
 	font: Snell Roundhand;
 	font-size: 13vmax;
 	text-align: center;
-	color: black;
+	color: white;
 }
 
 h1.intro
@@ -50,7 +52,7 @@ h1.intro
 	font: Stencil Std;
 	font-size: 5vmax;
 	text-align: center;
-	color: black;
+	color: white;
 	padding-bottom: 20vh;
 }
 
@@ -64,7 +66,7 @@ a.list
 {
 	font-family: fantasy;
 	font: Luminari;
-	color: black;
+	color: white;
 	font-size: 3vmax;
 	text-decoration: none;
 }
@@ -78,7 +80,7 @@ h1.heading
 	font: Stencil Std;
 	font-size: 5vmax;
 	text-align: center;
-	color: black;
+	color: white;
 	padding-bottom: 5vh;
 }
 
@@ -86,5 +88,5 @@ h1.content
 {
 	font-family: cursive;
 	font-size: 3vmax;
-	color: black;
+	color: white;
 }
