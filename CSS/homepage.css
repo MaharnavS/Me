@@ -5,6 +5,8 @@ html
 
 body.coming_soon
 {
+	height:100vh;
+	background-color: black;
 	background-image: url("../Media/Homepage/coming_soon_img.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;

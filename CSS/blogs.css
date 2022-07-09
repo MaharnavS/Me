@@ -1,0 +1,90 @@
+html
+{
+	min-height: 100%;
+}
+
+body
+{
+	background-color: #080808;
+}
+
+div.front
+{
+	height: 100vh;
+	overflow: scroll;
+	background-image: url("../Media/Blogs/background_main.jpeg");
+	background-repeat: no-repeat;
+	align-content: center;
+	background-size: cover;
+	background-position: center center;
+}
+
+div.invFront
+{
+	height: 100vh;
+	overflow: scroll;
+	background-image: url("../Media/Blogs/background_indivi.jpg");
+	background-repeat: no-repeat;
+	align-content: center;
+	background-size: cover;
+	background-position: center center;
+}
+
+h1.title
+{
+	padding-top: 35vh;
+	color: white;
+	font-family: cursive;
+	font: Snell Roundhand;
+	font-size: 15vw;
+	text-align: center;
+	color: black;
+}
+
+h1.intro
+{
+	padding-left: 2vw;
+	padding-right: 2vw;
+	color: white;
+	font-family: fantasy;
+	font: Stencil Std;
+	font-size: 7vw;
+	text-align: center;
+	color: black;
+	padding-bottom: 20vh;
+}
+
+.container
+{
+	width: 100%;
+	text-align: center;
+}
+
+a.list
+{
+	font-family: fantasy;
+	font: Luminari;
+	color: black;
+	font-size: 5vw;
+	text-decoration: none;
+}
+
+h1.heading
+{
+	padding-left: 2vw;
+	padding-right: 2vw;
+	color: white;
+	font-family: fantasy;
+	font: Stencil Std;
+	font-size: 7vw;
+	text-align: center;
+	color: black;
+	padding-bottom: 5vh;
+}
+
+h1.content
+{
+	font-family: cursive;
+	font-size: 5vw;
+	color: black;
+}
